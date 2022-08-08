@@ -18,19 +18,19 @@ This app is not for Customer/Patient use,this android application have admin, do
  - Doctor Appointment Health blogs
  - New Doctor Registration Request System
  - Login to admin Panels
-     -1.	Super Admin 
-       -  Add any new user
-       -  View all users
-       -  Active/Deactivated any user account
-       -  Manage New Doctor Joing Request
-       -  Mange Rider Request
-       -  Profile Page
-       
+     - 1.	Super Admin 
+         -  Add any new user
+         -  View all users
+         -  Active/Deactivated any user account
+         -  Manage New Doctor Joing Request
+         -  Mange Rider Request
+         -  Profile Page
+
     - 2.	Laboratory
-       - Add/update/delete Lab Test
-       - view all Lab Test List
-       - Manage Lab Test Request
-       - Profile Page
+         - Add/update/delete Lab Test
+         - view all Lab Test List
+         - Manage Lab Test Request
+         - Profile Page
        
     - 3.	Pharmacy
        - Add/update/delete New Medicine stock
@@ -47,6 +47,11 @@ This app is not for Customer/Patient use,this android application have admin, do
        - profile page 
        
     - 5.  Rider
+         - Dashboard
+         - Pick order from shop
+         - Deliver the order
+         - change Password
+         - Update Profile
  - Forget Password
  - Contacts us
  - About Us
