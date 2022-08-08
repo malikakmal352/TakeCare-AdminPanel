@@ -53,5 +53,26 @@ This app is not for Customer/Patient use,this android application have admin, do
  - Rate Us
  
 # -------------Project UI Screen Shots--------------
-                 # Splash Screen
-![homepage](https://github.com/malikakmal352/IIUI-SERVICES-App/blob/main/iiu%20img/iiu-1.png?raw=true)
+# Splash Screen
+![Splash_Screen](https://github.com/malikakmal352/TakeCare-AdminPanel/blob/master/Screenshots/1.jpeg?raw=true)
+
+# Main Page
+![MainPage1](https://github.com/malikakmal352/TakeCare-AdminPanel/blob/master/Screenshots/2.jpeg?raw=true)
+
+![MainPage2](https://github.com/malikakmal352/TakeCare-AdminPanel/blob/master/Screenshots/3.jpeg?raw=true)
+
+
+# Contact us
+![Contact_us](https://github.com/malikakmal352/TakeCare-AdminPanel/blob/master/Screenshots/4.jpeg?raw=true)
+
+# super Admin Panel
+#Login
+![superAdmin_Login](https://github.com/malikakmal352/TakeCare-AdminPanel/blob/master/Screenshots/5.jpeg?raw=true)
+
+## Panel Dashboard
+![Panel Dashboard](https://github.com/malikakmal352/TakeCare-AdminPanel/blob/master/Screenshots/10.jpeg?raw=true)
+
+![Panel Dashboard](https://github.com/malikakmal352/TakeCare-AdminPanel/blob/master/Screenshots/7.jpeg?raw=true)
+![Panel Dashboard](https://github.com/malikakmal352/TakeCare-AdminPanel/blob/master/Screenshots/9.jpeg?raw=true)
+
+
