@@ -65,11 +65,13 @@ This app is not for Customer/Patient use,this android application have admin, do
 # Contact us
 ![Contact_us](https://github.com/malikakmal352/TakeCare-AdminPanel/blob/master/Screenshots/4.jpeg?raw=true)
 
-# super Admin Panel
-#Login
+                # super Admin Panel
+
+# Login
 ![superAdmin_Login](https://github.com/malikakmal352/TakeCare-AdminPanel/blob/master/Screenshots/5.jpeg?raw=true)
 
-## Panel Dashboard
+# Panel Dashboard
+
 ![Panel Dashboard](https://github.com/malikakmal352/TakeCare-AdminPanel/blob/master/Screenshots/10.jpeg?raw=true)
 
 ![Panel Dashboard](https://github.com/malikakmal352/TakeCare-AdminPanel/blob/master/Screenshots/7.jpeg?raw=true)
